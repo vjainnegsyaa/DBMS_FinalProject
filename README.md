@@ -1,6 +1,6 @@
 # DBMS_FinalProject_G06
 # Subject: 租車管理系統
-● 50915112廖子科、 51015107廖玟嫻、51015130林敬雅   
+● 50915112廖子科、 51015107廖玟嫻、51015130林敬雅  
   
 ● 表格設計:  
 Users(使用者):UserID(主鍵)、RoleID(外鍵)、Username、Email、Password、Phone。  
@@ -10,9 +10,9 @@ Cars(車輛):CarID(主鍵)、LicensePlateNumber、Brand、Model、Status(可出�
 Rentals(租賃訂單):RentalID(主鍵)、CustomerID(外鍵)、CarID(外鍵)、StartDate、EndDate、TotalCost、Status(即將開始/進行中/已完成)。  
 Payments(付款紀錄):PaymentsID(主鍵)、RentalID(外鍵)、Amount、PaymentDate、Method、Status(尚未付款/已付款)。  
   
-● 使用者權限:
+● 使用者權限:  
 | RoleName | Users | Customers | Cars | Rentals | Payments |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | UserA | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Staff | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Customer | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Staff | ✗ | 只能查看 | ✓ | ✓ | ✓ |
+| Customer | ✗ | 只能管理自己的資料 | 只能查看 | 可以新增，只能管理自己的租賃訂單 | 只能支付自己的訂單 |
