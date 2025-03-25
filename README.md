@@ -11,7 +11,7 @@ Rentals(租賃訂單):RentalID(主鍵)、CustomerID(外鍵)、CarID(外鍵)、St
 Payments(付款紀錄):PaymentsID(主鍵)、RentalID(外鍵)、Amount、PaymentDate、Method。  
   
 ● 使用者權限:  
-| RoleName | Users | Customers | Cars | Rentals | Payments |
+| RoleName\DB | Users | Customers | Cars | Rentals | Payments |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | UserA | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Staff | ✗ | 只能查看 | ✓ | ✓ | ✓ |
