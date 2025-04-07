@@ -19,14 +19,3 @@
 ```!
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_I.pdf
 ```
-
-
----
-
-● 使用者權限:  
-| RoleName\DB | Users | Customers | Cars | Rentals | Payments |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| UserA | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Staff | ✗ | 只能查看 | 只能對資料做些改，不能新增和刪除 | ✓ | ✓ |
-| Customer | ✗ | 僅限管理自己的資料 | 只能查看 | 可以新增(自行租車)，僅限管理自己的租賃訂單 | 只能查看和新增(僅限自己的訂單) |
-
