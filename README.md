@@ -12,24 +12,17 @@
 
 
 ## Final Project Part I
-```
-題目+應用情境與使用案例+系統需求說明+完整性限制+ER Diagram及詳細說明
-```
 
-### [Final Project Part I 檔案連結](https://github.com/vjainnegsyaa/DBMS_FinalProject)
->https://github.com/vjainnegsyaa/DBMS_FinalProject
+題目+應用情境與使用案例+系統需求說明+完整性限制+ER Diagram及詳細說明
+
+[查看檔案請點我 (Final Project Part I ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_I.pdf)
+```!
+https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_I.pdf
+```
 
 
 ---
 
-● 表格設計:  
-Users(使用者):UserID(主鍵)、RoleID(外鍵)、Username、Email、Password、Phone。  
-Roles(角色權限):RoleID(主鍵)、RoleName(UserA、Staff、Customer)。  
-Customers(顧客):CustomerID(主鍵)、Name、Email、Phone、DriverLicenseNumber。  
-Cars(車輛):CarID(主鍵)、LicensePlateNumber、Brand、Model、Status(可出租/租借中/保養中)、Rate。  
-Rentals(租賃訂單):RentalID(主鍵)、CustomerID(外鍵)、CarID(外鍵)、StartDate、EndDate、TotalCost、Status(即將開始/進行中/已完成)。  
-Payments(付款紀錄):PaymentsID(主鍵)、RentalID(外鍵)、Amount、PaymentDate、Method。  
-  
 ● 使用者權限:  
 | RoleName\DB | Users | Customers | Cars | Rentals | Payments |
 | :---: | :---: | :---: | :---: | :---: | :---: |
