@@ -19,3 +19,12 @@
 ```!
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_I.pdf
 ```
+
+## Final Project Part II
+
+ERDiagram與說明+將完整之資料庫Schema以SQL語法並舉例說明
+
+[查看檔案請點我 (Final Project Part I ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II.pdf)
+```!
+https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II.pdf
+```
