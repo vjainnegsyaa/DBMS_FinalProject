@@ -31,4 +31,4 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II
 TODO:補足實體record + 合併table
 
 ## Extra
-TODO : Appendix E.1 作業 entity 紀錄5筆
+TODO : Appendix E.1+E.2 作業 各entity資料5筆
