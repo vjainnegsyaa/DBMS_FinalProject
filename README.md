@@ -41,4 +41,7 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E1_Customer_Orde
 ```
 
 ### E2.Inventory Control Data
-TODO :  各entity資料5筆record
+[查看檔案請點我 ( E1.Customer Order Data ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E2_Inventory_Contro.xlsx)
+```!
+https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E2_Inventory_Contro.xlsx
+```
