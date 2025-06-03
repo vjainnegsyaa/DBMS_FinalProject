@@ -29,8 +29,15 @@ ERDiagram與說明+將完整之資料庫Schema以SQL語法並舉例說明
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II.pdf
 ```
 
+## Final Project Part III
 
-TODO:補足實體record + 合併table
+1. 請修正上次作業之系統需求說明+ERDiagram與說明
+2. 將完整之資料庫Schema以SQL語法並舉例說明
+
+[查看檔案請點我 ( Final Project Part III ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_III.pdf)
+```!
+https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_III.pdf
+```
 
 ## Appendix E HomeWork
 
