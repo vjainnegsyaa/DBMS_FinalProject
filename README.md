@@ -39,6 +39,13 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_III.pdf
 ```
 
+PPT:
+因檔案太大，故存放雲端
+[查看PPT請點我 ( Final Project Part III ppt ) ](https://docs.google.com/presentation/d/1xi8QAzjZfjH2q3WCvGbJs_b1U1gyz3pn/edit?usp=sharing&ouid=115281260363145187252&rtpof=true&sd=true)
+```!
+https://docs.google.com/presentation/d/1xi8QAzjZfjH2q3WCvGbJs_b1U1gyz3pn/edit?usp=sharing&ouid=115281260363145187252&rtpof=true&sd=true
+```
+
 ## Appendix E HomeWork
 
 ### E1.Customer Order Data
