@@ -13,19 +13,22 @@
 
 > [!NOTE]
 > 這裡打分數!!!
-> ## 客戶端DEMO影片
+> ## ⭐客戶端DEMO影片
 > [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
-> ## 管理員DEMO影片
+> ## ⭐管理員DEMO影片
 > [查看影片請點我(https://youtu.be/p9xvvSxSEUI)](https://youtu.be/p9xvvSxSEUI)
 > ## 當天報告時的PPT
 > [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
 > 
-> ## 最終經修正後Final Project Part III 
+> ## ⭐最終經修正後Final Project Part III 
 > [查看檔案請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Final_Project_III.pdf)
 
 
 ---
 ---
+---
+---
+
 ## 歷史更新紀錄
 ### Final Project Part I
 
@@ -45,7 +48,7 @@ ERDiagram與說明+將完整之資料庫Schema以SQL語法並舉例說明
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II.pdf
 ```
 
-### Final Project Part III
+### Final Project Part III (非最新版本，最上方是最新版本)
 
 1. 請修正上次作業之系統需求說明+ERDiagram與說明
 2. 將完整之資料庫Schema以SQL語法並舉例說明
@@ -55,7 +58,7 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_III.pdf
 ```
 
-### Appendix E HomeWork
+### Appendix E 作業
 
 #### E1.Customer Order Data
 [查看檔案請點我 ( E1.Customer Order Data ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E1_Customer_Order_Data.xlsx)
