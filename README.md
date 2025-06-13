@@ -12,7 +12,7 @@
 
 
 > [!NOTE]
-> # 這裡打分數，不用尋寶
+> # 這裡打分數，不用尋寶 (DPF可以下載比較方便查閱)
 > ## ⭐客戶端DEMO影片
 > [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
 > ## ⭐管理員DEMO影片
