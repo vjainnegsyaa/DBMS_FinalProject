@@ -12,16 +12,21 @@
 
 
 > [!NOTE]
+> 這裡打分數!!!
 > ## 客戶端DEMO影片
 > [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
 > ## 管理員DEMO影片
 > [查看影片請點我(https://youtu.be/p9xvvSxSEUI)](https://youtu.be/p9xvvSxSEUI)
 > ## 當天報告時的PPT
 > [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
+> 
+> ## 最終經修正後Final Project Part III 
+> [查看檔案請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Final_Project_III.pdf)
 
 
 ---
-
+---
+## 歷史更新紀錄
 ### Final Project Part I
 
 題目+應用情境與使用案例+系統需求說明+完整性限制+ER Diagram及詳細說明
