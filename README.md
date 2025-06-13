@@ -21,7 +21,7 @@
 > [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
 > 
 > ## ⭐最終經修正後Final Project Part III 
-> [查看檔案請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Final_Project_III.pdf)
+> [查看檔案請點我(Final Project Document) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Document.pdf)
 
 
 ---
