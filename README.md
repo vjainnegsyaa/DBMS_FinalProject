@@ -10,7 +10,19 @@
 租車管理系統主要為顧客提供線上租車服務。顧客可以透過系統瀏覽可租借車輛的清單，並根據自身需求選擇適合的車輛，提前進行線上預約。當租賃日到來時，顧客只需攜帶有效身分證件與駕照正本，辦理保險與租賃契約，即可順利取車，避免因現場車輛短缺而無法提供租車的情況發生。
 此外，租車公司員工可透過系統管理車輛，以及租賃訂單的管理，進一步提升顧客體驗與服務品質。
 
-## Final Project Part I
+
+> [!NOTE]
+> ## 客戶端DEMO影片
+> [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
+> ## 管理員DEMO影片
+> [查看影片請點我(https://youtu.be/p9xvvSxSEUI)](https://youtu.be/p9xvvSxSEUI)
+> ## 當天報告時的PPT
+> [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
+
+
+---
+
+### Final Project Part I
 
 題目+應用情境與使用案例+系統需求說明+完整性限制+ER Diagram及詳細說明
 
@@ -19,7 +31,7 @@
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_I.pdf
 ```
 
-## Final Project Part II
+### Final Project Part II
 
 ERDiagram與說明+將完整之資料庫Schema以SQL語法並舉例說明
 
@@ -28,7 +40,7 @@ ERDiagram與說明+將完整之資料庫Schema以SQL語法並舉例說明
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II.pdf
 ```
 
-## Final Project Part III
+### Final Project Part III
 
 1. 請修正上次作業之系統需求說明+ERDiagram與說明
 2. 將完整之資料庫Schema以SQL語法並舉例說明
@@ -38,24 +50,15 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_III.pdf
 ```
 
-> [!NOTE]
-> ## 客戶端DEMO影片
-> [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
-> ## 管理員DEMO影片
-> [查看影片請點我(https://youtu.be/p9xvvSxSEUI)](https://youtu.be/p9xvvSxSEUI)
-> ## 當天報告PPT
-> [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
+### Appendix E HomeWork
 
-
-## Appendix E HomeWork
-
-### E1.Customer Order Data
+#### E1.Customer Order Data
 [查看檔案請點我 ( E1.Customer Order Data ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E1_Customer_Order_Data.xlsx)
 ```!
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E1_Customer_Order_Data.xlsx
 ```
 
-### E2.Inventory Control Data
+#### E2.Inventory Control Data
 [查看檔案請點我 ( E2.Inventory Control Data ) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E2_Inventory_Contro.xlsx)
 ```!
 https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_E2_Inventory_Contro.xlsx
