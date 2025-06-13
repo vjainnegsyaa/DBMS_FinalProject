@@ -43,14 +43,9 @@ https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_II
 > [查看影片請點我(https://youtu.be/39o3WEUARIg)](https://youtu.be/39o3WEUARIg)
 > ## 管理員DEMO影片
 > [查看影片請點我(https://youtu.be/p9xvvSxSEUI)](https://youtu.be/p9xvvSxSEUI)
-> ## PPT
-> 因檔案太大，故存放雲端
-> [查看PPT請點我 ( Final Project Part III ppt ) ](https://docs.google.com/presentation/d/1xi8QAzjZfjH2q3WCvGbJs_b1U1gyz3pn/edit?usp=sharing&ouid=115281260363145187252&rtpof=true&sd=true)
+> ## 當天報告PPT
+> [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
 
-
-```!
-https://docs.google.com/presentation/d/1xi8QAzjZfjH2q3WCvGbJs_b1U1gyz3pn/edit?usp=sharing&ouid=115281260363145187252&rtpof=true&sd=true
-```
 
 ## Appendix E HomeWork
 
