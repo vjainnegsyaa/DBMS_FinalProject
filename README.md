@@ -21,7 +21,7 @@
 > [查看PPT請點我(Final Project PPT) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Report_PPT.pdf)
 > 
 > ## ⭐⭐最終經修正後Final Project Part III 
-> [查看檔案請點我(Final Project Document) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Document.pdf)
+> [查看檔案請點我(G06_Final_Project_Document.pdf) ](https://github.com/vjainnegsyaa/DBMS_FinalProject/blob/main/G06_Final_Project_Document.pdf)
 >
 > 實作網頁系統Code
 > [點我連結過去](https://github.com/LiaoZike/Car_Renntal)
