@@ -26,7 +26,7 @@
 > 實作網頁系統Code
 > [點我連結過去](https://github.com/LiaoZike/Car_Renntal)
 
-#### 系統實作Reference
+#### Reference
 (程式碼、文字協助) <br>
 \[1\] OpenAI. (2025, April 1). ChatGPT (GPT-4) \[Large language model\]. https://chat.openai.com <br>
 (模板參考) <br>
